@@ -21,7 +21,7 @@
 ## About The Project
 This is a convenient and super useful shortcuts especially for developers programming which I made.
 
-*! Caution : It may works only on **Window**!*
+*<!> Caution : It may works only on **Window***
 
 ##### Built with* `.mcfunction`
 
@@ -59,6 +59,9 @@ I recommend to put the file 'Shortcuts.exe' in startup programs folder so that y
 If it doesn't works while Chrome is available, check if there is `chrome.exe` in `C:\Program Files\Google\Chrome\Application`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## TODO
+- [ ] Add `alt` + `q` = `alt` + `f4`.
 
 
 <!-- Author Info -->
