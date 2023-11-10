@@ -60,9 +60,6 @@ If it doesn't works while Chrome is available, check if there is `chrome.exe` in
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## TODO
-- [ ] Add `alt` + `q` = `alt` + `f4`.
-
 
 <!-- Author Info -->
 ## Contact
