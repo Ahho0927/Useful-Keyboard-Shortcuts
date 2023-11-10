@@ -21,6 +21,7 @@ ALT::return
 !;:: Send, {PgDn}
 !h:: Send, {Del}
 !y:: Send, {Esc}
+!q:: Send, !{F4}
 capslock:: 
 {
     Send, {vk15sc1F2}

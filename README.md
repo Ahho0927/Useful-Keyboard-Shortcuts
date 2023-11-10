@@ -53,6 +53,7 @@ I recommend to put the file 'Shortcuts.exe' in startup programs folder so that y
 - `alt` + `;` -> `PageDown`
 - `alt` + `h` -> `Delete`
 - `alt` + `y` -> `Escape`
+- `alt` + `q` -> `Alt` + `F4`
 - `win` + `n` -> Open a new Notepad
 - `win` + `c` -> Open a new window of Chrome(When Chrome is available)\
 If it doesn't works while Chrome is available, check if there is `chrome.exe` in `C:\Program Files\Google\Chrome\Application`.
