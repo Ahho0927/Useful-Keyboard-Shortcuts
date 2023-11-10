@@ -21,7 +21,7 @@
 ## About The Project
 This is a convenient and super useful shortcuts especially for developers programming which I made.
 
-*! Caution : It may works only on **Window**!*
+*<!> Caution : It may works only on **Window***
 
 ##### Built with* `.mcfunction`
 
