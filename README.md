@@ -23,7 +23,7 @@ This is a convenient and super useful shortcuts especially for developers progra
 
 *<!> Caution : It may works only on **Window***
 
-##### Built with* `.mcfunction`
+##### Built with* `Auto Hot Key`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,8 +64,8 @@ If it doesn't works while Chrome is available, check if there is `chrome.exe` in
 <!-- Author Info -->
 ## Contact
 
-Ahho0927 | [Github](https://github.com/Ahho0927) / [Mail](poku0927@gmail.com)
+Ahho0927 | [Github](https://github.com/Ahho0927) / [poku0927@gmail.com]
 
-Project Link: [https://github.com/Ahho0927/Project-Name](https://github.com/Ahho0927/Project-Name)
+Project Link: [https://github.com/Ahho0927/Useful-Keboard-Shortcuts](https://github.com/Ahho0927/Useful-Keboard-Shortcuts)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
