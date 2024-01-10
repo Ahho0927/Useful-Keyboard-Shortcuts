@@ -8,6 +8,7 @@ return
 Run, C:\Program Files\Google\Chrome\Application\chrome.exe
 return
 }
+
 capslock:: 
 {
 Send, {vk15sc1F2}
@@ -18,8 +19,6 @@ return
 Send, {CapsLock}
 return
 }
-!q:: Send, !{F4}
-return
 
 alt::
 return
@@ -104,3 +103,6 @@ return
 +#^!p:: Send, #^{PgUp}
 +#^!;:: Send, #^{PgDn}
 +#^!h:: Send, #^{Del}
+
+!q:: Send, !{F4}
+!w:: Send, #{Down}
